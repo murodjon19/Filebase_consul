@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213930208195",
+    "project_id": "filebase-27cfd",
+    "storage_bucket": "filebase-27cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213930208195:android:51f3f70e00e4de88d56b76",
+        "android_client_info": {
+          "package_name": "com.example.filebase_consle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213930208195-6hakjce09gfotfsel02bd53n2f43pfrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtUulazDfHoM1Afni_n1cE9NhXDU9qkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213930208195-6hakjce09gfotfsel02bd53n2f43pfrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
